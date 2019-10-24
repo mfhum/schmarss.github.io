@@ -34,7 +34,7 @@ body {
 }
 html,
 body.is-dark{
-  line-height: 10.8;
+  background-color: #000;
 }
 
 .no-padding {
