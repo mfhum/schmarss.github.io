@@ -390,7 +390,7 @@ h5 {
     margin: 2.4em 0 .8em;
 }
 
-
+html,
 body.is-dark {
     background-color: #000;
 }
