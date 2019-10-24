@@ -392,8 +392,8 @@ h5 {
 
 html,
 body.is-dark {
-    background-color: #000;
-}
+  background-color: #000;
+  }
 
 .box-words-wrapper.is-dark {
     color: #FFF;
